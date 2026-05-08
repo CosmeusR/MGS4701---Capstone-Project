@@ -1,6 +1,7 @@
 # Project---Analyzing the Game: Predicting Pro Bowl NFL Quarterbacks Using Performance Metrics
 
 This repository contains our business analytics project on NFL quarterback performance and Pro Bowl selection. The project examines whether quarterback statistics alone can help explain which players are selected to the Pro Bowl, while also recognizing that outside factors such as fan voting, media attention, team success, and popularity can influence the final outcome.
+
 **Objective**
 
 The objective of this study is to develop a predictive model that determines whether an NFL quarterback will be selected to the Pro Bowl based on performance metrics. The project aims to identify key statistical variables, build a predictive measure, evaluate model accuracy, and examine how traditional and advanced quarterback metrics contribute to Pro Bowl recognition.
