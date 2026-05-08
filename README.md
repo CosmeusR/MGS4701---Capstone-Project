@@ -30,6 +30,6 @@ Still, a model like this can help make Pro Bowl evaluation more consistent by es
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
 **Authors**
-Reginald Cosmeus
-Tochukwu Maduagwu
+- Reginald Cosmeus & Tochukwu Maduagwu
