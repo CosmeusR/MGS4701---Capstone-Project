@@ -14,7 +14,8 @@ The coefficient analysis showed that certain variables had a stronger influence 
 
 The ROC-AUC analysis was used as a secondary measure beyond the base model results. The model produced an AUC score of 0.959, showing strong classification performance and strong separation between quarterbacks who were selected to the Pro Bowl and those who were not. The ROC curve also showed that the model kept the false positive rate relatively low while maintaining a strong true positive rate across different thresholds.
 
-The PCA results showed that the first principal component explained 65.13% of the total variance and the second principal component explained 29.88%. Together, the first two components accounted for approximately 95% of the dataset’s variation. The first component represented overall passing production, while the second reflected passing efficiency.
+The PCA results showed that the first principal component explained 65.13% of the total variance and the second principal component explained 29.88%. Together, the first two components accounted for approximately 95% of the dataset’s variation. The first component represented overall passing production, while the second reflected passing efficiency.<img width="848" height="468" alt="Passing Yards" src="https://github.com/user-attachments/assets/7ebfedee-84b4-4d25-94a5-cbd51ea337f3" />
+
 
 
 **Discussion**
